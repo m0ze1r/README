@@ -8,10 +8,16 @@ We've been sorta stranded in a weird place for a bit and well..
   before the end of the year.. 
 ## q. You didn't answer the question..?
 - Oh yeah sorry rambling.. 
-We have just gotten access back to a laptop 
+We have just gotten access back to a laptop
+
+
 Being homeless sucks when the majority of your things are in storage..
+
+
 I'm going to have to piece everything back together again 
 from our old gitea instance but that is still on a server in cold storage right now..
+
+
 So.. Expect weird uploads but ,... uploads none the less
 
 We will be back better than ever before
